@@ -1,4 +1,4 @@
-FROM heartthief08/heartxbots-base:latest
+FROM heartthief08/heartxbots:latest
 
 WORKDIR /usr/src/app
 
