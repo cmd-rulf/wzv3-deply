@@ -1,4 +1,4 @@
-FROM 5hojib/aeon:latest
+FROM sahan336/wzmlx:v3
 
 WORKDIR /usr/src/app
 
